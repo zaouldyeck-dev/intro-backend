@@ -1,5 +1,10 @@
 # Week 01
 
-<!-- Your own reflection on the week, in English, about one A4 page. The points for the week are under "Weekly report"
-on the week page in Canvas, and README.md in this folder tells you how to write it. Write your text below this comment;
-pictures go in report/img/. -->
+Paul Ohrt
+
+Professionally active within the k8s devops space and looking to broaden
+my skillset.
+
+I'm running this on Asahi Fedora Remix on Macbook hardware.
+looking to broaden
+my skillset.
